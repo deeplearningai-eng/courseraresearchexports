@@ -37,7 +37,7 @@ setup(
     install_requires=[
         'argcomplete>=1.4.1',
         'courseraoauth2client>=0.0.1',
-        'requests>=2.7.0,<2.11',
+        'requests>=2.7.0',
         'docker-py>=1.2.3',
         'tqdm>=4.8.4',
         'tabulate>=0.7.5',
